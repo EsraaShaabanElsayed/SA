@@ -1,0 +1,56 @@
+.container {
+    padding: 3rem;
+    display: ruby-text;
+    border: 1px dashed black;
+    margin: 1rem;
+  }
+  
+  .errorMsg,
+  .notFound {
+    color: red;
+    padding: 1rem;
+    font-size: 2rem;
+  }
+  /*
+  .weather {
+    font-size: 2rem;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: #0400ff;
+    text-align: center;
+  }*/
+  
+  .logout {
+    margin: 1 1rem;
+    padding: 0.2rem 0.5rem;
+    width: 25%;
+    font-size: 2rem;
+    background: rgb(25, 84, 107);
+    cursor: pointer;
+    margin-top:  3rem;
+  }
+  span {
+    font-size: 1.5rem;
+    color: rgb(180, 100, 100);
+    text-decoration: underline;
+  }
+  .formContainer {
+    margin: 10 auto;
+    background-color: #f3f3f3;
+    padding: 1rem;
+    border: 1px solid black;
+    border-radius: 50px;
+    font-size: 2rem;
+    width: 40%;
+    margin-right: 20px
+  }
+.labelText {
+  flex: 1;
+}
+.label {
+  margin: 1rem;
+  display: flex;
+}
+  
